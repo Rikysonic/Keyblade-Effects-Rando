@@ -2,10 +2,16 @@ import os
 import random
 import sys
 
+current_dir = ""
+
 # Get keyblades ID
-current_dir = os.path.realpath(__file__).replace(os.path.basename(__file__), '')
-# current_dir = os.path.dirname(sys.executable) + "\\"
-files = os.listdir(current_dir + 'obj')
+# determine if application is a script file or frozen exe
+if getattr(sys, 'frozen', False):
+    current_dir = f"{os.path.dirname(sys.executable)}"
+elif __file__:
+    current_dir = f"{os.path.dirname(__file__)}"
+
+files = os.listdir(f"{current_dir}/obj")
 random_list = []
 keyblade_list = []
 for file in files:
@@ -16,7 +22,7 @@ random_list = keyblade_list.copy()
 random.shuffle(random_list)
 
 # Write the mod.yml
-f = open(current_dir + 'mod.yml', 'w')
+f = open(f"{current_dir}/mod.yml", 'w')
 f.write('assets:\n')
 for i in range(len(keyblade_list)):
     old = keyblade_list[i]
