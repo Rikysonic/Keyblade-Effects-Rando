@@ -1,409 +1,405 @@
 assets:
-- name: obj/W_EX010_10.a.fm
-  method: copy
-  source:
-  - name: obj/W_EX010_70_TR.a.fm
-- name: obj/W_EX010_10_NM.a.fm
-  method: copy
-  source:
-  - name: obj/W_EX010_F0_NM.a.fm
-- name: obj/W_EX010_10_TR.a.fm
-  method: copy
-  source:
-  - name: obj/W_EX010_A0_TR.a.fm
-- name: obj/W_EX010_10_WI.a.fm
-  method: copy
-  source:
-  - name: obj/W_EX010_50.a.fm
-- name: obj/W_EX010_20.a.fm
-  method: copy
-  source:
-  - name: obj/W_EX010_G0_WI.a.fm
-- name: obj/W_EX010_20_NM.a.fm
-  method: copy
-  source:
-  - name: obj/W_EX010_H0.a.fm
-- name: obj/W_EX010_20_TR.a.fm
-  method: copy
-  source:
-  - name: obj/W_EX010_90_TR.a.fm
-- name: obj/W_EX010_20_WI.a.fm
-  method: copy
-  source:
-  - name: obj/W_EX010_WI.a.fm
-- name: obj/W_EX010_30.a.fm
-  method: copy
-  source:
-  - name: obj/W_EX010_40_TR.a.fm
-- name: obj/W_EX010_30_NM.a.fm
-  method: copy
-  source:
-  - name: obj/W_EX010_M0_WI.a.fm
-- name: obj/W_EX010_30_TR.a.fm
-  method: copy
-  source:
-  - name: obj/W_EX010_M0_NM.a.fm
-- name: obj/W_EX010_30_WI.a.fm
-  method: copy
-  source:
-  - name: obj/W_EX010_NM.a.fm
-- name: obj/W_EX010_40.a.fm
-  method: copy
-  source:
-  - name: obj/W_EX010_80_WI.a.fm
-- name: obj/W_EX010_40_NM.a.fm
-  method: copy
-  source:
-  - name: obj/W_EX010_J0_NM.a.fm
-- name: obj/W_EX010_40_TR.a.fm
-  method: copy
-  source:
-  - name: obj/W_EX010_P0_TR.a.fm
-- name: obj/W_EX010_40_WI.a.fm
-  method: copy
-  source:
-  - name: obj/W_EX010_30.a.fm
-- name: obj/W_EX010_50.a.fm
-  method: copy
-  source:
-  - name: obj/W_EX010_90_NM.a.fm
-- name: obj/W_EX010_50_NM.a.fm
-  method: copy
-  source:
-  - name: obj/W_EX010_E0_TR.a.fm
-- name: obj/W_EX010_50_TR.a.fm
-  method: copy
-  source:
-  - name: obj/W_EX010_N0_WI.a.fm
-- name: obj/W_EX010_50_WI.a.fm
-  method: copy
-  source:
-  - name: obj/W_EX010_D0_TR.a.fm
-- name: obj/W_EX010_60.a.fm
-  method: copy
-  source:
-  - name: obj/W_EX010_U0.a.fm
-- name: obj/W_EX010_60_NM.a.fm
-  method: copy
-  source:
-  - name: obj/W_EX010_ROXAS_LIGHT.a.fm
-- name: obj/W_EX010_60_TR.a.fm
-  method: copy
-  source:
-  - name: obj/W_EX010_B0_TR.a.fm
-- name: obj/W_EX010_60_WI.a.fm
-  method: copy
-  source:
-  - name: obj/W_EX010_V0.a.fm
-- name: obj/W_EX010_70.a.fm
-  method: copy
-  source:
-  - name: obj/W_EX010_80_NM.a.fm
-- name: obj/W_EX010_70_NM.a.fm
-  method: copy
-  source:
-  - name: obj/W_EX010_40_WI.a.fm
-- name: obj/W_EX010_70_TR.a.fm
-  method: copy
-  source:
-  - name: obj/W_EX010_90_WI.a.fm
-- name: obj/W_EX010_70_WI.a.fm
-  method: copy
-  source:
-  - name: obj/W_EX010_C0_TR.a.fm
-- name: obj/W_EX010_80.a.fm
-  method: copy
-  source:
-  - name: obj/W_EX010_60.a.fm
-- name: obj/W_EX010_80_NM.a.fm
-  method: copy
-  source:
-  - name: obj/W_EX010_70.a.fm
-- name: obj/W_EX010_80_TR.a.fm
-  method: copy
-  source:
-  - name: obj/W_EX010_G0_NM.a.fm
-- name: obj/W_EX010_80_WI.a.fm
-  method: copy
-  source:
-  - name: obj/W_EX010_60_WI.a.fm
-- name: obj/W_EX010_90.a.fm
-  method: copy
-  source:
-  - name: obj/W_EX010_K0_NM.a.fm
-- name: obj/W_EX010_90_NM.a.fm
-  method: copy
-  source:
-  - name: obj/W_EX010_B0_WI.a.fm
-- name: obj/W_EX010_90_TR.a.fm
-  method: copy
-  source:
-  - name: obj/W_EX010_30_TR.a.fm
-- name: obj/W_EX010_90_WI.a.fm
-  method: copy
-  source:
-  - name: obj/W_EX010_ROXAS_DARK.a.fm
-- name: obj/W_EX010_A0.a.fm
-  method: copy
-  source:
-  - name: obj/W_EX010_G0.a.fm
-- name: obj/W_EX010_A0_NM.a.fm
-  method: copy
-  source:
-  - name: obj/W_EX010_60_TR.a.fm
-- name: obj/W_EX010_A0_TR.a.fm
-  method: copy
-  source:
-  - name: obj/W_EX010_N0.a.fm
-- name: obj/W_EX010_A0_WI.a.fm
-  method: copy
-  source:
-  - name: obj/W_EX010_70_NM.a.fm
-- name: obj/W_EX010_B0.a.fm
-  method: copy
-  source:
-  - name: obj/W_EX010_J0.a.fm
-- name: obj/W_EX010_B0_NM.a.fm
-  method: copy
-  source:
-  - name: obj/W_EX010_R0_WI.a.fm
-- name: obj/W_EX010_B0_TR.a.fm
-  method: copy
-  source:
-  - name: obj/W_EX010_80_TR.a.fm
-- name: obj/W_EX010_B0_WI.a.fm
-  method: copy
-  source:
-  - name: obj/W_EX010_P0.a.fm
-- name: obj/W_EX010_C0.a.fm
-  method: copy
-  source:
-  - name: obj/W_EX010_10_WI.a.fm
-- name: obj/W_EX010_C0_NM.a.fm
-  method: copy
-  source:
-  - name: obj/W_EX010_40.a.fm
-- name: obj/W_EX010_C0_TR.a.fm
-  method: copy
-  source:
-  - name: obj/W_EX010_C0_WI.a.fm
-- name: obj/W_EX010_C0_WI.a.fm
-  method: copy
-  source:
-  - name: obj/W_EX010_20.a.fm
-- name: obj/W_EX010_D0.a.fm
-  method: copy
-  source:
-  - name: obj/W_EX010_D0_WI.a.fm
-- name: obj/W_EX010_D0_NM.a.fm
-  method: copy
-  source:
-  - name: obj/W_EX010_70_WI.a.fm
-- name: obj/W_EX010_D0_TR.a.fm
-  method: copy
-  source:
-  - name: obj/W_EX010_F0_WI.a.fm
-- name: obj/W_EX010_D0_WI.a.fm
-  method: copy
-  source:
-  - name: obj/W_EX010_20_NM.a.fm
-- name: obj/W_EX010_E0.a.fm
-  method: copy
-  source:
-  - name: obj/W_EX010_E0.a.fm
-- name: obj/W_EX010_E0_NM.a.fm
-  method: copy
-  source:
-  - name: obj/W_EX010_K0_WI.a.fm
-- name: obj/W_EX010_E0_TR.a.fm
-  method: copy
-  source:
-  - name: obj/W_EX010_P0_WI.a.fm
-- name: obj/W_EX010_E0_WI.a.fm
-  method: copy
-  source:
-  - name: obj/W_EX010_TR.a.fm
-- name: obj/W_EX010_F0.a.fm
-  method: copy
-  source:
-  - name: obj/W_EX010_E0_WI.a.fm
-- name: obj/W_EX010_F0_NM.a.fm
-  method: copy
-  source:
-  - name: obj/W_EX010_R0_TR.a.fm
-- name: obj/W_EX010_F0_TR.a.fm
-  method: copy
-  source:
-  - name: obj/W_EX010_A0_NM.a.fm
-- name: obj/W_EX010_F0_WI.a.fm
-  method: copy
-  source:
-  - name: obj/W_EX010_M0_TR.a.fm
-- name: obj/W_EX010_G0.a.fm
-  method: copy
-  source:
-  - name: obj/W_EX010_B0.a.fm
-- name: obj/W_EX010_G0_NM.a.fm
-  method: copy
-  source:
-  - name: obj/W_EX010_40_NM.a.fm
-- name: obj/W_EX010_G0_TR.a.fm
-  method: copy
-  source:
-  - name: obj/W_EX010_A0_WI.a.fm
-- name: obj/W_EX010_G0_WI.a.fm
-  method: copy
-  source:
-  - name: obj/W_EX010_K0_TR.a.fm
-- name: obj/W_EX010_H0.a.fm
-  method: copy
-  source:
-  - name: obj/W_EX010_50_WI.a.fm
-- name: obj/W_EX010_H0_NM.a.fm
-  method: copy
-  source:
-  - name: obj/W_EX010_R0.a.fm
-- name: obj/W_EX010_H0_TR.a.fm
-  method: copy
-  source:
-  - name: obj/W_EX010_30_NM.a.fm
-- name: obj/W_EX010_H0_WI.a.fm
-  method: copy
-  source:
-  - name: obj/W_EX010_H0_NM.a.fm
-- name: obj/W_EX010_J0.a.fm
-  method: copy
-  source:
-  - name: obj/W_EX010_D0_NM.a.fm
-- name: obj/W_EX010_J0_NM.a.fm
-  method: copy
-  source:
-  - name: obj/W_EX010_30_WI.a.fm
-- name: obj/W_EX010_J0_TR.a.fm
-  method: copy
-  source:
-  - name: obj/W_EX010_C0.a.fm
-- name: obj/W_EX010_J0_WI.a.fm
-  method: copy
-  source:
-  - name: obj/W_EX010_J0_WI.a.fm
-- name: obj/W_EX010_K0.a.fm
-  method: copy
-  source:
-  - name: obj/W_EX010_N0_TR.a.fm
-- name: obj/W_EX010_K0_NM.a.fm
-  method: copy
-  source:
-  - name: obj/W_EX010_A0.a.fm
-- name: obj/W_EX010_K0_TR.a.fm
-  method: copy
-  source:
-  - name: obj/W_EX010_20_TR.a.fm
-- name: obj/W_EX010_K0_WI.a.fm
-  method: copy
-  source:
-  - name: obj/W_EX010_20_WI.a.fm
-- name: obj/W_EX010_M0.a.fm
-  method: copy
-  source:
-  - name: obj/W_EX010_C0_NM.a.fm
-- name: obj/W_EX010_M0_NM.a.fm
-  method: copy
-  source:
-  - name: obj/W_EX010_G0_TR.a.fm
-- name: obj/W_EX010_M0_TR.a.fm
-  method: copy
-  source:
-  - name: obj/W_EX010_10_TR.a.fm
-- name: obj/W_EX010_M0_WI.a.fm
-  method: copy
-  source:
-  - name: obj/W_EX010_D0.a.fm
-- name: obj/W_EX010_N0.a.fm
-  method: copy
-  source:
-  - name: obj/W_EX010_N0_NM.a.fm
-- name: obj/W_EX010_N0_NM.a.fm
-  method: copy
-  source:
-  - name: obj/W_EX010_E0_NM.a.fm
-- name: obj/W_EX010_N0_TR.a.fm
+- name: obj/W_EX010.a.fm
   method: copy
   source:
   - name: obj/W_EX010_10.a.fm
-- name: obj/W_EX010_N0_WI.a.fm
+- name: obj/W_EX010_10.a.fm
   method: copy
   source:
-  - name: obj/W_EX010_F0.a.fm
-- name: obj/W_EX010_NM.a.fm
+  - name: obj/W_EX010_E0_WI.a.fm
+- name: obj/W_EX010_10_NM.a.fm
   method: copy
   source:
-  - name: obj/W_EX010_B0_NM.a.fm
-- name: obj/W_EX010_P0.a.fm
+  - name: obj/W_EX010_30_TR.a.fm
+- name: obj/W_EX010_10_TR.a.fm
   method: copy
   source:
-  - name: obj/W_EX010_60_NM.a.fm
-- name: obj/W_EX010_P0_NM.a.fm
+  - name: obj/W_EX010_D0_NM.a.fm
+- name: obj/W_EX010_10_WI.a.fm
   method: copy
   source:
-  - name: obj/W_EX010_50_NM.a.fm
-- name: obj/W_EX010_P0_TR.a.fm
+  - name: obj/W_EX010_NM.a.fm
+- name: obj/W_EX010_20.a.fm
   method: copy
   source:
-  - name: obj/W_EX010_W0.a.fm
-- name: obj/W_EX010_P0_WI.a.fm
+  - name: obj/W_EX010_20_NM.a.fm
+- name: obj/W_EX010_20_NM.a.fm
   method: copy
   source:
-  - name: obj/W_EX010_80.a.fm
-- name: obj/W_EX010_R0.a.fm
-  method: copy
-  source:
-  - name: obj/W_EX010_F0_TR.a.fm
-- name: obj/W_EX010_R0_NM.a.fm
-  method: copy
-  source:
-  - name: obj/W_EX010_J0_TR.a.fm
-- name: obj/W_EX010_R0_TR.a.fm
-  method: copy
-  source:
-  - name: obj/W_EX010_H0_WI.a.fm
-- name: obj/W_EX010_R0_WI.a.fm
-  method: copy
-  source:
-  - name: obj/W_EX010_R0_NM.a.fm
-- name: obj/W_EX010_ROXAS_DARK.a.fm
-  method: copy
-  source:
-  - name: obj/W_EX010_M0.a.fm
-- name: obj/W_EX010_ROXAS_LIGHT.a.fm
-  method: copy
-  source:
-  - name: obj/W_EX010_Y0.a.fm
-- name: obj/W_EX010_TR.a.fm
-  method: copy
-  source:
-  - name: obj/W_EX010_50_TR.a.fm
-- name: obj/W_EX010_U0.a.fm
+  - name: obj/W_EX010_60_TR.a.fm
+- name: obj/W_EX010_20_TR.a.fm
   method: copy
   source:
   - name: obj/W_EX010_10_NM.a.fm
-- name: obj/W_EX010_V0.a.fm
+- name: obj/W_EX010_20_WI.a.fm
   method: copy
   source:
-  - name: obj/W_EX010_K0.a.fm
-- name: obj/W_EX010_W0.a.fm
+  - name: obj/W_EX010_M0_TR.a.fm
+- name: obj/W_EX010_30.a.fm
   method: copy
   source:
-  - name: obj/W_EX010_Z0.a.fm
-- name: obj/W_EX010_WI.a.fm
+  - name: obj/W_EX010_60.a.fm
+- name: obj/W_EX010_30_NM.a.fm
   method: copy
   source:
-  - name: obj/W_EX010_90.a.fm
-- name: obj/W_EX010_Y0.a.fm
+  - name: obj/W_EX010_30.a.fm
+- name: obj/W_EX010_30_TR.a.fm
   method: copy
   source:
-  - name: obj/W_EX010_H0_TR.a.fm
-- name: obj/W_EX010_Z0.a.fm
+  - name: obj/W_EX010_40_WI.a.fm
+- name: obj/W_EX010_30_WI.a.fm
+  method: copy
+  source:
+  - name: obj/W_EX010_A0_NM.a.fm
+- name: obj/W_EX010_40.a.fm
+  method: copy
+  source:
+  - name: obj/W_EX010_40.a.fm
+- name: obj/W_EX010_40_NM.a.fm
+  method: copy
+  source:
+  - name: obj/W_EX010_70_WI.a.fm
+- name: obj/W_EX010_40_TR.a.fm
+  method: copy
+  source:
+  - name: obj/W_EX010_W0.a.fm
+- name: obj/W_EX010_40_WI.a.fm
+  method: copy
+  source:
+  - name: obj/W_EX010_70_TR.a.fm
+- name: obj/W_EX010_50.a.fm
+  method: copy
+  source:
+  - name: obj/W_EX010_K0_NM.a.fm
+- name: obj/W_EX010_50_NM.a.fm
+  method: copy
+  source:
+  - name: obj/W_EX010_20_WI.a.fm
+- name: obj/W_EX010_50_TR.a.fm
+  method: copy
+  source:
+  - name: obj/W_EX010_A0_TR.a.fm
+- name: obj/W_EX010_50_WI.a.fm
+  method: copy
+  source:
+  - name: obj/W_EX010_A0_WI.a.fm
+- name: obj/W_EX010_60.a.fm
+  method: copy
+  source:
+  - name: obj/W_EX010_G0_TR.a.fm
+- name: obj/W_EX010_60_NM.a.fm
+  method: copy
+  source:
+  - name: obj/W_EX010_TR.a.fm
+- name: obj/W_EX010_60_TR.a.fm
+  method: copy
+  source:
+  - name: obj/W_EX010_50_NM.a.fm
+- name: obj/W_EX010_60_WI.a.fm
+  method: copy
+  source:
+  - name: obj/W_EX010_B0.a.fm
+- name: obj/W_EX010_70.a.fm
+  method: copy
+  source:
+  - name: obj/W_EX010_50.a.fm
+- name: obj/W_EX010_70_NM.a.fm
+  method: copy
+  source:
+  - name: obj/W_EX010_H0.a.fm
+- name: obj/W_EX010_70_TR.a.fm
+  method: copy
+  source:
+  - name: obj/W_EX010_90_NM.a.fm
+- name: obj/W_EX010_70_WI.a.fm
+  method: copy
+  source:
+  - name: obj/W_EX010_B0_WI.a.fm
+- name: obj/W_EX010_80.a.fm
+  method: copy
+  source:
+  - name: obj/W_EX010_30_WI.a.fm
+- name: obj/W_EX010_80_NM.a.fm
+  method: copy
+  source:
+  - name: obj/W_EX010_U0.a.fm
+- name: obj/W_EX010_80_TR.a.fm
+  method: copy
+  source:
+  - name: obj/W_EX010_N0.a.fm
+- name: obj/W_EX010_80_WI.a.fm
+  method: copy
+  source:
+  - name: obj/W_EX010_50_TR.a.fm
+- name: obj/W_EX010_90.a.fm
+  method: copy
+  source:
+  - name: obj/W_EX010_P0_WI.a.fm
+- name: obj/W_EX010_90_NM.a.fm
+  method: copy
+  source:
+  - name: obj/W_EX010_Y0.a.fm
+- name: obj/W_EX010_90_TR.a.fm
+  method: copy
+  source:
+  - name: obj/W_EX010_B0_NM.a.fm
+- name: obj/W_EX010_90_WI.a.fm
+  method: copy
+  source:
+  - name: obj/W_EX010_30_NM.a.fm
+- name: obj/W_EX010_A0.a.fm
+  method: copy
+  source:
+  - name: obj/W_EX010_60_WI.a.fm
+- name: obj/W_EX010_A0_NM.a.fm
   method: copy
   source:
   - name: obj/W_EX010_P0_NM.a.fm
+- name: obj/W_EX010_A0_TR.a.fm
+  method: copy
+  source:
+  - name: obj/W_EX010_C0_NM.a.fm
+- name: obj/W_EX010_A0_WI.a.fm
+  method: copy
+  source:
+  - name: obj/W_EX010_10_WI.a.fm
+- name: obj/W_EX010_B0.a.fm
+  method: copy
+  source:
+  - name: obj/W_EX010_M0_WI.a.fm
+- name: obj/W_EX010_B0_NM.a.fm
+  method: copy
+  source:
+  - name: obj/W_EX010_H0_TR.a.fm
+- name: obj/W_EX010_B0_TR.a.fm
+  method: copy
+  source:
+  - name: obj/W_EX010_K0_TR.a.fm
+- name: obj/W_EX010_B0_WI.a.fm
+  method: copy
+  source:
+  - name: obj/W_EX010_C0.a.fm
+- name: obj/W_EX010_C0.a.fm
+  method: copy
+  source:
+  - name: obj/W_EX010_E0_NM.a.fm
+- name: obj/W_EX010_C0_NM.a.fm
+  method: copy
+  source:
+  - name: obj/W_EX010_Z0.a.fm
+- name: obj/W_EX010_C0_TR.a.fm
+  method: copy
+  source:
+  - name: obj/W_EX010_50_WI.a.fm
+- name: obj/W_EX010_C0_WI.a.fm
+  method: copy
+  source:
+  - name: obj/W_EX010_C0_TR.a.fm
+- name: obj/W_EX010_D0.a.fm
+  method: copy
+  source:
+  - name: obj/W_EX010_M0.a.fm
+- name: obj/W_EX010_D0_NM.a.fm
+  method: copy
+  source:
+  - name: obj/W_EX010_J0.a.fm
+- name: obj/W_EX010_D0_TR.a.fm
+  method: copy
+  source:
+  - name: obj/W_EX010_D0.a.fm
+- name: obj/W_EX010_D0_WI.a.fm
+  method: copy
+  source:
+  - name: obj/W_EX010_70.a.fm
+- name: obj/W_EX010_E0.a.fm
+  method: copy
+  source:
+  - name: obj/W_EX010_40_NM.a.fm
+- name: obj/W_EX010_E0_NM.a.fm
+  method: copy
+  source:
+  - name: obj/W_EX010.a.fm
+- name: obj/W_EX010_E0_TR.a.fm
+  method: copy
+  source:
+  - name: obj/W_EX010_40_TR.a.fm
+- name: obj/W_EX010_E0_WI.a.fm
+  method: copy
+  source:
+  - name: obj/W_EX010_70_NM.a.fm
+- name: obj/W_EX010_F0.a.fm
+  method: copy
+  source:
+  - name: obj/W_EX010_R0_NM.a.fm
+- name: obj/W_EX010_F0_NM.a.fm
+  method: copy
+  source:
+  - name: obj/W_EX010_K0.a.fm
+- name: obj/W_EX010_F0_TR.a.fm
+  method: copy
+  source:
+  - name: obj/W_EX010_A0.a.fm
+- name: obj/W_EX010_F0_WI.a.fm
+  method: copy
+  source:
+  - name: obj/W_EX010_20_TR.a.fm
+- name: obj/W_EX010_G0.a.fm
+  method: copy
+  source:
+  - name: obj/W_EX010_R0_WI.a.fm
+- name: obj/W_EX010_G0_NM.a.fm
+  method: copy
+  source:
+  - name: obj/W_EX010_F0_WI.a.fm
+- name: obj/W_EX010_G0_TR.a.fm
+  method: copy
+  source:
+  - name: obj/W_EX010_G0_WI.a.fm
+- name: obj/W_EX010_G0_WI.a.fm
+  method: copy
+  source:
+  - name: obj/W_EX010_D0_TR.a.fm
+- name: obj/W_EX010_H0.a.fm
+  method: copy
+  source:
+  - name: obj/W_EX010_H0_NM.a.fm
+- name: obj/W_EX010_H0_NM.a.fm
+  method: copy
+  source:
+  - name: obj/W_EX010_80_WI.a.fm
+- name: obj/W_EX010_H0_TR.a.fm
+  method: copy
+  source:
+  - name: obj/W_EX010_80.a.fm
+- name: obj/W_EX010_H0_WI.a.fm
+  method: copy
+  source:
+  - name: obj/W_EX010_J0_NM.a.fm
+- name: obj/W_EX010_J0.a.fm
+  method: copy
+  source:
+  - name: obj/W_EX010_90_TR.a.fm
+- name: obj/W_EX010_J0_NM.a.fm
+  method: copy
+  source:
+  - name: obj/W_EX010_R0.a.fm
+- name: obj/W_EX010_J0_TR.a.fm
+  method: copy
+  source:
+  - name: obj/W_EX010_N0_NM.a.fm
+- name: obj/W_EX010_J0_WI.a.fm
+  method: copy
+  source:
+  - name: obj/W_EX010_90_WI.a.fm
+- name: obj/W_EX010_K0.a.fm
+  method: copy
+  source:
+  - name: obj/W_EX010_J0_TR.a.fm
+- name: obj/W_EX010_K0_NM.a.fm
+  method: copy
+  source:
+  - name: obj/W_EX010_80_NM.a.fm
+- name: obj/W_EX010_K0_TR.a.fm
+  method: copy
+  source:
+  - name: obj/W_EX010_60_NM.a.fm
+- name: obj/W_EX010_K0_WI.a.fm
+  method: copy
+  source:
+  - name: obj/W_EX010_G0.a.fm
+- name: obj/W_EX010_M0.a.fm
+  method: copy
+  source:
+  - name: obj/W_EX010_P0_TR.a.fm
+- name: obj/W_EX010_M0_NM.a.fm
+  method: copy
+  source:
+  - name: obj/W_EX010_J0_WI.a.fm
+- name: obj/W_EX010_M0_TR.a.fm
+  method: copy
+  source:
+  - name: obj/W_EX010_80_TR.a.fm
+- name: obj/W_EX010_M0_WI.a.fm
+  method: copy
+  source:
+  - name: obj/W_EX010_F0_TR.a.fm
+- name: obj/W_EX010_N0.a.fm
+  method: copy
+  source:
+  - name: obj/W_EX010_20.a.fm
+- name: obj/W_EX010_N0_NM.a.fm
+  method: copy
+  source:
+  - name: obj/W_EX010_B0_TR.a.fm
+- name: obj/W_EX010_N0_TR.a.fm
+  method: copy
+  source:
+  - name: obj/W_EX010_WI.a.fm
+- name: obj/W_EX010_N0_WI.a.fm
+  method: copy
+  source:
+  - name: obj/W_EX010_E0_TR.a.fm
+- name: obj/W_EX010_NM.a.fm
+  method: copy
+  source:
+  - name: obj/W_EX010_V0.a.fm
+- name: obj/W_EX010_P0.a.fm
+  method: copy
+  source:
+  - name: obj/W_EX010_F0_NM.a.fm
+- name: obj/W_EX010_P0_NM.a.fm
+  method: copy
+  source:
+  - name: obj/W_EX010_10_TR.a.fm
+- name: obj/W_EX010_P0_TR.a.fm
+  method: copy
+  source:
+  - name: obj/W_EX010_M0_NM.a.fm
+- name: obj/W_EX010_P0_WI.a.fm
+  method: copy
+  source:
+  - name: obj/W_EX010_P0.a.fm
+- name: obj/W_EX010_R0.a.fm
+  method: copy
+  source:
+  - name: obj/W_EX010_C0_WI.a.fm
+- name: obj/W_EX010_R0_NM.a.fm
+  method: copy
+  source:
+  - name: obj/W_EX010_E0.a.fm
+- name: obj/W_EX010_R0_TR.a.fm
+  method: copy
+  source:
+  - name: obj/W_EX010_F0.a.fm
+- name: obj/W_EX010_R0_WI.a.fm
+  method: copy
+  source:
+  - name: obj/W_EX010_N0_TR.a.fm
+- name: obj/W_EX010_TR.a.fm
+  method: copy
+  source:
+  - name: obj/W_EX010_90.a.fm
+- name: obj/W_EX010_U0.a.fm
+  method: copy
+  source:
+  - name: obj/W_EX010_H0_WI.a.fm
+- name: obj/W_EX010_V0.a.fm
+  method: copy
+  source:
+  - name: obj/W_EX010_G0_NM.a.fm
+- name: obj/W_EX010_W0.a.fm
+  method: copy
+  source:
+  - name: obj/W_EX010_D0_WI.a.fm
+- name: obj/W_EX010_WI.a.fm
+  method: copy
+  source:
+  - name: obj/W_EX010_N0_WI.a.fm
+- name: obj/W_EX010_Y0.a.fm
+  method: copy
+  source:
+  - name: obj/W_EX010_R0_TR.a.fm
+- name: obj/W_EX010_Z0.a.fm
+  method: copy
+  source:
+  - name: obj/W_EX010_K0_WI.a.fm
