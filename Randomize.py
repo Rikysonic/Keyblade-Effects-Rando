@@ -23,6 +23,11 @@ random.shuffle(random_list)
 
 # Write the mod.yml
 f = open(f"{current_dir}/mod.yml", 'w')
+f.write('''title: Keyblade Effects Rando
+originalAuthor: Rikysonic
+game: kh2
+description: A Keyblade Effects Randomizer for KH2. It will randomize every keyblade effects when swinging and hitting enemies. Make sure to run Randomizer.exe in openkh/mods/Rikysonic/Keyblade-Effects-Rando to generate a new rando.
+''')
 f.write('assets:\n')
 for i in range(len(keyblade_list)):
     old = keyblade_list[i]
